@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lawthmic_home/static/css/main.17ee3808.chunk.css",
+    "main.js": "/lawthmic_home/static/js/main.569d589d.chunk.js",
+    "main.js.map": "/lawthmic_home/static/js/main.569d589d.chunk.js.map",
+    "runtime-main.js": "/lawthmic_home/static/js/runtime-main.33ad0831.js",
+    "runtime-main.js.map": "/lawthmic_home/static/js/runtime-main.33ad0831.js.map",
+    "static/js/2.4530e419.chunk.js": "/lawthmic_home/static/js/2.4530e419.chunk.js",
+    "static/js/2.4530e419.chunk.js.map": "/lawthmic_home/static/js/2.4530e419.chunk.js.map",
+    "index.html": "/lawthmic_home/index.html",
+    "static/css/main.17ee3808.chunk.css.map": "/lawthmic_home/static/css/main.17ee3808.chunk.css.map",
+    "static/js/2.4530e419.chunk.js.LICENSE.txt": "/lawthmic_home/static/js/2.4530e419.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33ad0831.js",
+    "static/js/2.4530e419.chunk.js",
+    "static/css/main.17ee3808.chunk.css",
+    "static/js/main.569d589d.chunk.js"
+  ]
+}
