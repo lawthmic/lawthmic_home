@@ -1,27 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import './css/styles.css';
+import { HashRouter, Route } from 'react-router-dom';
+import About from './routes/About';
+import Navigation from './components/Navigation';
 
-
-import SyntaxHighlighter from 'react-syntax-highlighter';
-import { docco } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-
-import {code, code1} from './code.js';
-
-const Component = () => {
-
-  return (
-    <SyntaxHighlighter language="kotlin" style={docco} wrapLines={true} showLineNumbers={true}>
-      {code}
-    </SyntaxHighlighter>
-  );
-};
-
- 
 
 function App() {
-  return (<Component />);
+  return (
+    <HashRouter>
+      <Navigation />
+      <Route path="/" exact={true} component={About}/>
+    </HashRouter>
+  );
 }
-
-
 
 export default App;
