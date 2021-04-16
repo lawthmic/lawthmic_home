@@ -22,11 +22,6 @@ function NameCard() {
                 메일: lawthmic [at] gmail.com
                 </td>
             </tr>
-            <tr>
-                <td>
-                주소: 울산 남구 문수로409번길 23, 205동 801호
-                </td>
-            </tr>
             </table>
         </div>
     );
