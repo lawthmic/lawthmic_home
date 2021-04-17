@@ -63,6 +63,10 @@ img {
 	color: #eee;
 }
 
+ul {
+	list-style: none;
+}
+
 
 .crimeTable table{
 	font-family: arial, sans-serif;

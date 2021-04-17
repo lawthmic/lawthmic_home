@@ -12,7 +12,7 @@ function About() {
       <Title text="안녕하세요 로드믹입니다"/>
       <Intro />
       <NameCard />
-      <h3>공지 사항</h3>
+      <h3><i class="fas fa-bullhorn fa-lg"></i> 공지 사항</h3>
       <News />
       <br />
       <br />

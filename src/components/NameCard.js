@@ -9,17 +9,17 @@ function NameCard() {
             <table>
             <tr>
                 <td>
-                대표: 이주연
+                대표 이주연
                 </td>
             </tr>
             <tr>
                 <td>
-                전화: 010-9996-0205
+                전화 010-9996-0205
                 </td>
             </tr>
             <tr>
                 <td>
-                메일: lawthmic [at] gmail.com
+                메일 lawthmic [at] gmail.com
                 </td>
             </tr>
             </table>
