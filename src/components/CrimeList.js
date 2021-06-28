@@ -30,7 +30,7 @@ function CrimeList() {
             <tr>
                 <td>절도</td>
                 <td>형법 329조, 330조, 331조</td>
-                <td>20.46</td>
+                <td>20.45</td>
             </tr>
             <tr>
                 <td>임금·퇴직금</td>
