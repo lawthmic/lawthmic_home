@@ -8,10 +8,10 @@ function SGFactor() {
       <div class="crimeTable">
         <Title text="범죄 통계"/>
   
-        <h3><i class="fas fa-gavel"></i> 시간당 1건 이상 발생하는 범죄</h3>
+        <h3><i class="fas fa-gavel"></i> 시간당 1건 이상 발생하면서 양형기준이 설정된 범죄</h3>
   
         <br />
-        <h3><i class="fas fa-gavel"></i> 단독범죄가 전체범죄의 90% 이상</h3>
+        <h3><i class="fas fa-gavel"></i> 90% 이상은 단독범죄</h3>
  
         <br />
         <br />
