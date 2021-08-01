@@ -4,7 +4,7 @@ const lawthmic_news = [
     {
         id: 1,
         name: '[Call for Papers]',
-        title: 'FIFTEENTH INTERNATIONAL WORKSHOP ON JURIS-INFORMATICS(JURISIN)',
+        title: '15th International Workshop on JURIS-INFORMATICS(JURISIN)',
         year: '2021',
         status: 'Deadline: August 31'
     },
