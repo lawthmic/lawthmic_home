@@ -3,23 +3,23 @@ import React from 'react';
 const lawthmic_news = [
     {
         id: 1,
-        name: '[Call for Papers]',
-        title: 'International Workshop on Mining and Learning in the Legal Domain(MLLD)',
-        year: '2021',
-        status: 'Deadline: September 3'
+        name: '[정보]',
+        title: 'International Association for AI and Law',
+        year: '공식 유튜브 채널',
+        status: 'https://www.youtube.com/channel/UC-nPeKR_Ey5EDrUAFr_4mEg'
     },
     {
         id: 2,
-        name: '[Call for Papers]',
-        title: '15th International Workshop on JURIS-INFORMATICS(JURISIN)',
-        year: '2021',
-        status: 'Deadline: August 31'
+        name: '[정보]',
+        title: 'Journal of Artificial Intelligence and Law',
+        year: 'Springer',
+        status: 'SCIE·SSCI·SCOPUS'
     },
     {
         id: 3,
         name: '[구인]',
         title: '책편집자(인디자인/재택근무)',
-        year: '2021. 8',
+        year: '2021. 9',
         status: '모집중'
     },
     {
