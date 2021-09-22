@@ -17,17 +17,24 @@ const lawthmic_news = [
     },
     {
         id: 3,
-        name: '[구인]',
-        title: '책편집자(인디자인/재택근무)',
-        year: '2021. 9',
-        status: '모집중'
+        name: '[정보]',
+        title: 'CodeX (computational law)',
+        year: 'Stanford Univ.',
+        status: 'https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/'
     },
     {
         id: 4,
         name: '[구독]',
-        title: '프로그래밍 자료(raywenderlich.com)',
+        title: '프로그래밍 학습(raywenderlich)',
         year: '2021. 5',
         status: '1년간'
+    },
+    {
+        id: 5,
+        name: '[구독]',
+        title: '영작문 도구(grammarly)',
+        year: '2021. 9',
+        status: '1년간'      
     }
     
 ]
