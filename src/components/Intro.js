@@ -6,7 +6,7 @@ import '../css/styles.css';
 function Intro() {
     return (
         <div class="IntroWrapper">
-            <p class="IntroText">We provide unprecedented contents through the convergence of Law and Science.</p>
+            <p class="IntroText">We provide unprecedented content through the convergence of Law and Science.</p>
             <Image url="lawthmic_ci.png" />
         </div>
     );
