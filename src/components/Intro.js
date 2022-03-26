@@ -7,7 +7,7 @@ function Intro() {
     return (
         <div class="IntroWrapper">
             <p class="IntroText">We provide unprecedented content through the convergence of Law and Science.</p>
-            <Image url="lawthmic_ci.png" />
+            <Image url="lawyer_badge-768x768.png" />
         </div>
     );
 }
