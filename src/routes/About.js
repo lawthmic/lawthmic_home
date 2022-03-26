@@ -11,7 +11,7 @@ function About() {
     <div>
       <Title text="안녕하세요 로드믹입니다"/>
       <Intro />
-      <NameCard />
+      {/*<NameCard />*/}
       <hr color="#f0f0f0" />
       <br />
       <h4><i class="fas fa-bullhorn fa-lg"></i> 공지 사항</h4>
