@@ -19,6 +19,9 @@ function About() {
       <br />
       <br />
       <br />
+      <hr color="#f0f0f0" />
+      <br />
+      Copyright Since 2022. Tel 010-9996-0205.
       <br />
       <br />
     </div>
