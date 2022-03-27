@@ -54,6 +54,10 @@ img {
 	font-style: italic;
 }
 
+.FootText {
+	font-size: 1.0rem;
+	color: #777;
+}
 
 .MethodWrapper li:after {
 	content: "✼";

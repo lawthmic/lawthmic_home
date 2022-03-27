@@ -3,6 +3,7 @@ import Title from '../components/Title';
 import Intro from '../components/Intro';
 import NameCard from '../components/NameCard';
 import News from '../components/News';
+import FootNote from '../components/FootNote';
 
 
 function About() {
@@ -20,10 +21,7 @@ function About() {
       <br />
       <br />
       <hr color="#f0f0f0" />
-      <br />
-      Copyright Since 2022. Tel 010-9996-0205.
-      <br />
-      <br />
+      <FootNote />
     </div>
 
   );
