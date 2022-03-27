@@ -19,9 +19,11 @@ function About() {
       <News />
       <br />
       <br />
-      <br />
       <hr color="#f0f0f0" />
       <FootNote />
+      <br />
+      <br />
+      <br />
     </div>
 
   );
