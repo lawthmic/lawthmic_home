@@ -13,7 +13,7 @@ const lawthmic_news = [
         name: '[정보]',
         title: 'International Association for AI and Law',
         year: '공식 유튜브 채널',
-        status: 'https://www.youtube.com/channel/UC-nPeKR_Ey5EDrUAFr_4mEg'
+        status: ''
     },
     {
         id: 4,
