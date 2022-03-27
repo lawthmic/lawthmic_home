@@ -6,7 +6,7 @@ const lawthmic_news = [
         name: '[학회]',
         title: '15th International Workshop on Juris-informatics(JURISIN 2021)',
         year: 'November 14-15',
-        status: 'https://www.kl.itc.nagoya-u.ac.jp/jurisin2021/'
+        status: ''
     },
     {
         id: 5,
@@ -27,7 +27,7 @@ const lawthmic_news = [
         name: '[정보]',
         title: 'CodeX (computational law)',
         year: 'Stanford Univ.',
-        status: 'https://law.stanford.edu/codex-the-stanford-center-for-legal-informatics/'
+        status: ''
     },
     {
         id: 2,
