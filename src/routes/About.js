@@ -15,7 +15,7 @@ function About() {
       {/*<NameCard />*/}
       <hr color="#f0f0f0" />
       <br />
-      <h4><i class="fas fa-bullhorn fa-lg"></i> 공지 사항</h4>
+      <h4><i class="fas fa-bullhorn fa-lg"></i> 최신 판례</h4>
       <News />
       <br />
       <br />
