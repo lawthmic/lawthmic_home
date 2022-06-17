@@ -78,10 +78,9 @@ const lawthmic_news = [
 function News() {
 
     return (
-        
         <ul class="MethodWrapper">
             {lawthmic_news.slice(0).reverse().map(news => (
-                <li>{news.kind} {news.date}, <i>{news.tag}</i> <p>{news.content}</p></li>
+                <li>{news.kind} {news.date}, <i>{news.tag}</i> <p>{news.content}</p><hr /></li>
             ))}
         </ul>
     );
