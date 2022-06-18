@@ -80,7 +80,7 @@ function News() {
     return (
         <ul class="MethodWrapper">
             {lawthmic_news.slice(0).reverse().map(news => (
-                <li>{news.kind} {news.date}, <i>{news.tag}</i> <p>{news.content}</p><hr /></li>
+                <li>{news.kind} {news.date}, <i>{news.tag}</i> <p>{news.content}</p><hr color="#f0f0f0"/></li>
             ))}
         </ul>
     );
