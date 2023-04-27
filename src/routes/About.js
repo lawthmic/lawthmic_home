@@ -10,7 +10,7 @@ function About() {
   return (
 
     <div>
-      <Title text="안녕하세요 로드믹입니다"/>
+      <Title text="Welcome to LAWTHMIC"/>
       <Intro />
       {/*<NameCard />*/}
       <hr color="#f0f0f0" />
