@@ -7,9 +7,9 @@ function CrimeList() {
 
             <table>
             <tr>
-                <th>범죄유형</th>
+                <th>범죄</th>
                 <th>관련조문</th>
-                <th>시간당 발생건수</th>
+                <th>시간당 발생수</th>
             </tr>
             <tr>
                 <td>사기</td>
