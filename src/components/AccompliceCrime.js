@@ -1,34 +1,34 @@
 import React from 'react';
 
 
-function UnilateralCrime() {
+function AccompliceCrime() {
     return (
         <div>
 
             <table>
             <tr>
                 <th></th>
+                <th>2021년</th>
+                <th>2020년</th>
                 <th>2019년</th>
-                <th>2018년</th>
-                <th>2017년</th>
             </tr>
             <tr>
                 <td>전체범죄</td>
-                <td>1,342,854</td>
-                <td>1,328,609</td>
-                <td>1,413,717</td>
+                <td>1,247,680</td>
+                <td>1,494,421</td>
+                <td>1,585,638</td>
             </tr>
             <tr>
-                <td>단독범죄</td>
-                <td>1,220,325</td>
-                <td>1,206,049</td>
-                <td>1,284,499</td>
+                <td>공범범죄</td>
+                <td>152,958</td>
+                <td>180,786</td>
+                <td>190,757</td>
             </tr>
             <tr>
                 <td>비율(%)</td>
-                <td>90.8</td>
-                <td>90.8</td>
-                <td>90.9</td>
+                <td>12.26</td>
+                <td>12.10</td>
+                <td>12.03</td>
             </tr>
  
             </table>
@@ -40,4 +40,4 @@ function UnilateralCrime() {
     
 }
 
-export default UnilateralCrime;
+export default AccompliceCrime;

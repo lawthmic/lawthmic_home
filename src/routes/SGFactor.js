@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from '../components/Title';
 import CrimeList from '../components/CrimeList';
-import UnilateralCrime from '../components/UnilateralCrime';
+import AccompliceCrime from '../components/AccompliceCrime';
 
 function SGFactor() {
     return (
@@ -13,13 +13,11 @@ function SGFactor() {
         <CrimeList />
         <br />
 
-        {/*
-        <h3><i class="fas fa-gavel"></i> 90% 이상은 단독범죄</h3>
-        <UnilateralCrime />
+        
+        <h3><i class="fas fa-gavel"></i> 공범 비율</h3>
+        <AccompliceCrime />
         <br />
-        <br /> */}
-        <br />
-        <br />
+        <br /> 
         <br />
       </div>
   
