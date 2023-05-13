@@ -4,7 +4,7 @@ import Intro from '../components/Intro';
 import NameCard from '../components/NameCard';
 import News from '../components/News';
 import FootNote from '../components/FootNote';
-
+import Canvas from '../components/CanvasRender';
 
 function About() {
   return (
@@ -12,11 +12,12 @@ function About() {
     <div>
       <Title text="Welcome to LAWTHMIC"/>
       <Intro />
+      <Canvas />
       {/*<NameCard />*/}
       <hr color="#f0f0f0" />
       <br />
-      <h4><i class="fas fa-bullhorn fa-lg"></i> 최신 판례</h4>
-      <News />
+      {/*<h4><i class="fas fa-bullhorn fa-lg"></i> 최신 판례</h4>
+      <News />*/}
       <br />
       <br />
       <hr color="#f0f0f0" />
@@ -26,7 +27,9 @@ function About() {
       <br />
     </div>
 
+
   );
 }
+
 
 export default About;

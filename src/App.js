@@ -5,7 +5,6 @@ import About from './routes/About';
 import SGFactor from './routes/SGFactor';
 import Navigation from './components/Navigation';
 
-
 function App() {
   return (
     <HashRouter>
